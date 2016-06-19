@@ -1,0 +1,15 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>images/zoomin.png</file>
+    <file>images/zoomout.png</file>
+    <file>images/gtk-go-up.png</file>
+    <file>images/gtk-go-down.png</file>
+    <file>images/gtk-go-left.png</file>	
+    <file>images/gtk-go-right.png</file>
+    <file>images/fazix.png</file>
+    <file>images/photo.png</file>
+    <file>images/color.png</file>
+    <file>images/pen.png</file>
+</qresource>
+</RCC>
+
